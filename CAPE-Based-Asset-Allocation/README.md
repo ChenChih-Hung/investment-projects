@@ -81,7 +81,7 @@ Applying the allocation strategy from 1933–2024 produced higher cumulative wea
 ## Project Files
 
 - 📄 Investment Research Report (PDF)
-- 📊 Excel Financial Model (.xlsx)
+- 📊 Excel Financial Model (PDF)
 
 ---
 
