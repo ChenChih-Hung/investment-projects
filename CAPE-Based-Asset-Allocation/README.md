@@ -1,3 +1,17 @@
+## Results
+
+### Cumulative Return
+
+![Cumulative Return](images/cumulative_return.png)
+
+### CAPE Signal
+
+![CAPE Signal](images/cape_signal.png)
+
+### Asset Allocation
+
+![Asset Allocation](images/allocation.png)
+
 # CAPE-Based Asset Allocation Strategy
 
 ## Overview
