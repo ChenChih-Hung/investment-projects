@@ -1,16 +1,8 @@
 ## Results
 
-### Cumulative Return
+### CAPE vs 5-Year Forward Return
 
-![Cumulative Return](images/cumulative_return.png)
-
-### CAPE Signal
-
-![CAPE Signal](images/cape_signal.png)
-
-### Asset Allocation
-
-![Asset Allocation](images/allocation.png)
+![CAPE vs 5Y Return](CAPE_vs_5Y_Return.png)
 
 # CAPE-Based Asset Allocation Strategy
 
