@@ -1,10 +1,4 @@
-## Results
 
-### CAPE vs 5-Year Forward Return
-
-![CAPE vs 5Y Return](CAPE_vs_5Y_Return.png)
-
-# CAPE-Based Asset Allocation Strategy
 
 ## Overview
 
