@@ -47,7 +47,7 @@ Higher CAPE ratios are associated with lower subsequent 5-year returns, supporti
 
 Applying the allocation strategy from 1933–2024 produced higher cumulative wealth than a traditional 60/40 benchmark.
 
-![Portfolio Growth](Portfolio_Growth.png)
+![Portfolio Growth](Portfolio%20Growth.png)
 
 ---
 
